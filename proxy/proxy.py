@@ -30,7 +30,7 @@ class MlgmXyysd_Anime_Game_Proxy:
         loader.add_option(
             name = "ip",
             typespec = str,
-            default = "127.0.0.1",
+            default = "43.156.235.177",
             help = "IP address to replace",
         )
 
